@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Calistoga&display=swap');
+
+body {
+  background-color: rgba(176, 150, 231, 0.5);
+  color: navy;
+}
+
+h1 {
+
+  margin: 0 auto;
+  padding: 60px;
+
+}
+
+.finalremark {
+  font-size: 15px;
+}
